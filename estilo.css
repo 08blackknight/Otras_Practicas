@@ -1,0 +1,18 @@
+fariseo{
+	background-color: lightgray;
+	border: 4px solid orange;
+	padding: 8px;
+}
+
+sector1 {
+	background-color: black;
+	color: white;
+	border: 4px solid green;
+	padding: 8px;
+}
+
+.elheader{
+	background-color: green;
+	color: black;
+
+}
